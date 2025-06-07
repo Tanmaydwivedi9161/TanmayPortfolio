@@ -1,0 +1,29 @@
+.aboutus-container {
+  padding: 60px 30px;
+  background-color: #000000;
+  color: #e0f7ff;
+  text-align: center;
+}
+
+.aboutus-heading {
+  font-size: 42px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.aboutus-text {
+  max-width: 800px;
+  margin: 0 auto 20px;
+  font-size: 16px;
+  line-height: 1.8;
+  color: #d0f2ff;
+}
+
+.aboutus-text span {
+  color: #00e0ff;
+  font-weight: 600;
+}
+
+.aboutus-text strong {
+  color: #00bcd4;
+}
