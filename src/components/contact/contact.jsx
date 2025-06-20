@@ -71,7 +71,7 @@ class Contact extends Component {
             <textarea placeholder="Your Message" rows="5" required value={message} onChange={this.onChanageMessage}></textarea>
             <button type="submit">Send</button>
           </form>
-          {showMessage && <p className="success-msg">🎉 Message sent successfully!</p>}
+          {showMessage && <p className="success-msg">Message sent successfully! We will connect you soon.</p>}
         </div>
       </div>
       </>
