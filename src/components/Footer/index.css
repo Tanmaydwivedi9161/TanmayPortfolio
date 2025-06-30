@@ -1,0 +1,42 @@
+.footer {
+  background: linear-gradient(135deg, rgb(16, 114, 146), #0a3749);
+  color: white;
+  text-align: center;
+  padding: 30px 15px;
+  margin-top: 50px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.footer-heading {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.footer-contact {
+  font-size: 14px;
+  margin-bottom: 15px;
+  color: #e0f7ff;
+}
+
+.footer-icons {
+  margin-top: 10px;
+}
+
+.footer-icons a {
+  margin: 0 10px;
+  font-size: 24px;
+  color: white;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.footer-icons a:hover {
+  color: #ffdd57;
+  transform: scale(1.2);
+}
+
+.footer-copy {
+  font-size: 13px;
+  margin-top: 20px;
+  color: #cceeff;
+}
